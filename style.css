@@ -1,0 +1,50 @@
+body{ 
+    background-color: #33382a;
+}
+
+.Colors{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aqua;
+    margin: 35px;
+    border-radius: 50px;
+    flex-wrap: wrap;
+    flex: auto;
+    
+}
+
+h1{
+    padding:7px ;
+}
+
+.Red:hover  {
+  color: red;
+  transition: all 500ms ease-in-out ;
+ 
+}
+
+.Safroon:hover{
+    color: #FF9933;
+    transition: all 500ms ease-in-out ;
+}
+.Yellow:hover{
+    color: yellow;
+    transition: all 500ms ease-in-out ;
+}
+.Green:hover{
+    color: green;
+    transition: all 500ms ease-in-out ;
+}
+.White:hover{
+    color: white;
+    transition: all 500ms ease-in-out ;
+}
+.Black:hover{
+    color: black;
+    transition: all 500ms ease-in-out ;
+}
+.Pink:hover{
+    color: pink;
+    transition: all 500ms ease-in-out ;
+}
+
